@@ -18,22 +18,14 @@ A classic Snake game built using **Python** and served via **Flask**. The snake 
    cd PythonFlask
 Create and activate a virtual environment (optional but recommended)
 
-bash
-Copy
-Edit
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 Install dependencies
 
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 Run the Flask app
 
-bash
-Copy
-Edit
 python app.py
 Open your browser and go to http://127.0.0.1:5000 to play!
 
